@@ -1,7 +1,6 @@
 ![Header](https://github.com/3inky/3inky/blob/main/github-header-banner.png)
 
-## Who am i?
-Hello first, my name is "Emre". I live in Turkey and i'm interested in **coding.** My target is being a *Engineer.*
+<h2 align="center">I specialize in building beginner and user-friendly programs.</h2>
 
 <h4 align="left">My Tech Stack:</h4>
 
@@ -57,3 +56,5 @@ Hello first, my name is "Emre". I live in Turkey and i'm interested in **coding.
 </div>
 
 ###
+
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
