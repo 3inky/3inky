@@ -1,4 +1,4 @@
-![Header](./https://github.com/3inky/3inky/blob/main/github-header-banner.png)
+![Header](https://github.com/3inky/3inky/blob/main/github-header-banner.png)
 
 ## Who am i?
 Hello first, my name is "Emre". I live in Turkey and i'm interested in **coding.** My target is being a *Engineer.*
